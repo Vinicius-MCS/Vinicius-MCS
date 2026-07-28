@@ -1,24 +1,29 @@
-## Bem-vindo(a) ao perfil Vinicius-MCS 🚀
+# Olá, eu sou o Vinicius Melo! 👋
 
- <div>
-   <a href="https://github.com/Vinicius-MCS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-MCS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-MCS&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Me acompanhe ou entre em contato por meio das redes sociais abaixo!
- 
-<div> 
-  <a href="https://www.instagram.com/vini07melo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://canary.discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: vinicius.mcs07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+💻 **Graduando em Ciência da Computação (UFPA) | Engenharia de Software & Java**
+
+Focado no desenvolvimento de sistemas web robustos, escaláveis e de alta performance. Tenho como objetivo de carreira a Engenharia de Software Back-End em ecossistemas Java enterprise, combinando boas práticas de arquitetura, modelagem de dados e capacidade de entrega Full-Stack.
+
+---
+
+### 🎯 Foco Técnico Principal
+
+- **Back-End Enterprise:** Java | Spring Boot | APIs RESTful | JPA / Hibernate | Jakarta EE
+- **Engenharia & Banco de Dados:** PostgreSQL (SQL) | Modelagem Relacional | Otimização de Performance (Queries & JPQL)
+- **Suporte Full-Stack:** React.js | TypeScript | JavaScript | TailwindCSS
+- **Práticas & Ferramentas:** Arquitetura de Software | Clean Code | Git & GitHub | Docker | Linux
+
+---
+
+### 🚀 Destaques de Atuação
+
+- ⚙️ **Engenharia Back-End:** Construção de APIs RESTful escaláveis, resolução de gargalos de desempenho em banco de dados e otimização de consultas.
+- 🔐 **Segurança e Arquitetura:** Integração de fluxos de autenticação e autorização corporativa.
+- 🌐 **Projetos Full-Stack:** Liderança e desenvolvimento de aplicações web completas (como o [SafeTrack](https://github.com/rastre-io/safe-track.git)), garantindo integração fluida entre Back-End e Front-End.
+
+---
+
+### 📫 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [linkedin.com/in/vinicius-mcs](https://www.linkedin.com/in/vinicius-mcs)
+- 📧 **E-mail:** vinicius.mcs07@gmail.com
