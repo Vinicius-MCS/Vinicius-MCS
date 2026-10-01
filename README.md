@@ -26,4 +26,4 @@ Focado no desenvolvimento de sistemas web robustos, escaláveis e de alta perfor
 ### 📫 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [linkedin.com/in/vinicius-mcs](https://www.linkedin.com/in/vinicius-mcs)
-- 📧 **E-mail:** vinicius.mcs07@gmail.com
+- 📧 **E-mail:** vinicius.mcs.dev@gmail.com
